@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/zad9.dir/err.c.o CMakeFiles/zad9.dir/dropnobody.c.o CMakeFiles/zad9.dir/in_cksum.c.o CMakeFiles/zad9.dir/myping.c.o  -o zad9 

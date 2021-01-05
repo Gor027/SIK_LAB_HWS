@@ -1,0 +1,3 @@
+/home/gor027/MIM/SIK/Zad8/Przykłady 8-20200509/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gor027/MIM/SIK/Zad8/Przykłady 8-20200509/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gor027/MIM/SIK/Zad8/Przykłady 8-20200509/cmake-build-debug/CMakeFiles/exec.dir

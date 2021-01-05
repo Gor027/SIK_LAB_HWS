@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Zad6.dir/file-client-tcp.c.o CMakeFiles/Zad6.dir/file-server-tcp.c.o CMakeFiles/Zad6.dir/err.c.o  -o Zad6 

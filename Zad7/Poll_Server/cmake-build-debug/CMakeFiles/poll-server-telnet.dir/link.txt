@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/poll-server-telnet.dir/poll-server-telnet.c.o CMakeFiles/poll-server-telnet.dir/err.c.o  -o poll-server-telnet 

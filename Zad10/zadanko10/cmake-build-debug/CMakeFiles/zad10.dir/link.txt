@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/zad10.dir/zad10/file-le-client.c.o CMakeFiles/zad10.dir/zad10/file-le-server.c.o CMakeFiles/zad10.dir/zad10/err.c.o  -o zad10 

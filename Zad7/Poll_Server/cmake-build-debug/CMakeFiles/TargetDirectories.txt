@@ -1,0 +1,3 @@
+/home/gor027/MIM/SIK/Zad7/Poll_Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gor027/MIM/SIK/Zad7/Poll_Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gor027/MIM/SIK/Zad7/Poll_Server/cmake-build-debug/CMakeFiles/poll-server-telnet.dir

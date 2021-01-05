@@ -1,0 +1,3 @@
+/home/gor027/MIM/SIK/Zad10/zadanko10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gor027/MIM/SIK/Zad10/zadanko10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gor027/MIM/SIK/Zad10/zadanko10/cmake-build-debug/CMakeFiles/zad10.dir

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gor027/MIM/SIK/Zad10/zadanko10/err.h
+
+/home/gor027/MIM/SIK/Zad10/zadanko10/le-server.c
+event2/event.h
+-
+event2/util.h
+-
+errno.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+unistd.h
+-
+err.h
+/home/gor027/MIM/SIK/Zad10/zadanko10/err.h
+

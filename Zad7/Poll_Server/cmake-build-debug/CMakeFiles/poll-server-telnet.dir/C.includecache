@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gor027/MIM/SIK/Zad7/Poll_Server/err.h
+
+/home/gor027/MIM/SIK/Zad7/Poll_Server/poll-server-telnet.c
+limits.h
+-
+poll.h
+-
+signal.h
+-
+stdio.h
+-
+string.h
+-
+sys/socket.h
+-
+netdb.h
+-
+unistd.h
+-
+stdlib.h
+-
+errno.h
+-
+err.h
+/home/gor027/MIM/SIK/Zad7/Poll_Server/err.h
+
